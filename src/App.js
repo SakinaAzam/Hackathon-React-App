@@ -1,14 +1,15 @@
 
 import './App.css';
-
+import Header from './layout/header'
+import Content from './layout/content'
 function App() {
   return (
+    
     <div className="App">
-      <header className="App-header">
-        <p>
-           My Hackathon App
-        </p>
-      </header>
+      <div className="App-header">
+        <Header />
+        <Content />
+      </div>
     </div>
   );
 }

@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Complete Project Proposal",
+    "description": "Write a detailed project proposal for the upcoming client meeting.",
+    "priority": "Critical"
+  },
+  {
+    "title": "Buy Groceries",
+    "description": "Purchase items for the week, including fruits, vegetables, and milk.",
+    "priority": "Normal"
+  },
+  {
+    "title": "Call Insurance Company",
+    "description": "Contact the insurance company to inquire about coverage options.",
+    "priority": "Urgent"
+  }
+]
+
