@@ -72,7 +72,7 @@ const TaskType = ({ dataFromParent , search}) => {
   };
   return (
     // <div>n</div>
-    <div className="flex justify-center flex-wrap gap-7 w-full min-h-[65vh] rounded-[40px] p-5 bg-[#faf4f4d4]">
+    <div className="flex justify-start flex-wrap gap-7 w-full min-h-[65vh] rounded-[40px] p-5 bg-[#faf4f4d4]">
       {sortedTodos.map((item) => (
         <div>
           <p
